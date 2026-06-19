@@ -2,7 +2,7 @@
 /**
  * Module Name: WordPress Monitor
  * Description: Monitor completo de la instalación de WordPress, servidor, configuración, seguridad y endpoints.
- * Version: 1.0.0
+ * Version: 1.1.0
  *
  * @package Ultron
  * @subpackage WP_Monitor
